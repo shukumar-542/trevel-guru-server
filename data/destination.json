@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "hotel_name": "Light bright airy stylish apt & safe peaceful stay",
+    "category_id" : "1",
+    "features": "Michelin-starred restaurant ,Wif Air conditioning Kitchen Cancellation fexibility availiable",
+    "rating": 4.9,
+    "price": "$1000 per night",
+    "image_url": "https://i.ibb.co/ct5cfgd/Rectangle-26.png"
+  },
+  {
+    "id": 2,
+    "hotel_name": "Apartment in Lost Panorama",
+    "category_id" : "1",
+    "features": "Eiffel Tower views,Shangri-La Hotel, Paris Cancellation fexibility availiable",
+    "rating": 4.5,
+    "price": "$500 per night",
+    "image_url": "https://i.ibb.co/X7vtLxp/Rectangle-27.png"
+  },
+  {
+    
+      "id": 3,
+      "hotel_name": "Hotel Plaza Athenee",
+      "category_id" : "1",
+      "features": "Eiffel Tower views,Shangri-La Hotel, Paris Cancellation fexibility availiable",
+      "rating": 4.1,
+      "price": "$900 per night",
+      "image_url": "https://i.ibb.co/Px2qdZC/Rectangle-28.png"
+    
+  },
+  {
+    
+    "id": 4,
+    "hotel_name": "Hotel Plaza Bali, Indonesia",
+    "category_id" : "2",
+    "features": "Eiffel Tower views,Shangri-La Hotel, Paris Cancellation fexibility availiable",
+    "rating": 3.1,
+    "price": "$300 per night",
+    "image_url": "https://i.ibb.co/X7vtLxp/Rectangle-27.png"
+  
+},
+{
+    
+  "id": 5,
+  "hotel_name": "Hotel Plaza COMO Uma Ubud",
+  "category_id" : "2",
+  "features": "organic restaurant Paris Cancellation fexibility availiable",
+  "rating": 3.9,
+  "price": "$400 per night",
+  "image_url": "https://i.ibb.co/Px2qdZC/Rectangle-28.png"
+
+},
+{
+    
+  "id": 6,
+  "hotel_name": "The Four Seasons Resort Bali",
+  "category_id" : "2",
+  "features": "private villas organic restaurant Paris Cancellation fexibility availiable",
+  "rating": 3.9,
+  "price": "$500 per night",
+  "image_url": "https://i.ibb.co/ct5cfgd/Rectangle-26.png"
+
+},
+{
+    
+  "id": 7,
+  "hotel_name": "The Four Seasons Resort Bali",
+  "category_id" : "3",
+  "features": " fitness center private villas organic restaurant Paris Cancellation fexibility availiable",
+  "rating": 4.0,
+  "price": "$900 per night",
+  "image_url": "https://i.ibb.co/Px2qdZC/Rectangle-28.png"
+
+},
+{
+    
+  "id": 8,
+  "hotel_name": "New York City, USA",
+  "category_id" : "3",
+  "features": " Central Park viewsrganic restaurant Paris Cancellation fexibility availiable",
+  "rating": 4.0,
+  "price": "$800 per night",
+  "image_url": "https://i.ibb.co/Px2qdZC/Rectangle-28.png"
+
+},
+{
+    
+  "id": 9,
+  "hotel_name": "The Waldorf Astoria New York",
+  "category_id" : "3",
+  "features": " Central Park viewsrganic restaurant Paris Cancellation fexibility availiable",
+  "rating": 4.0,
+  "price": "$800 per night",
+  "image_url": "https://i.ibb.co/ct5cfgd/Rectangle-26.png"
+
+}
+]
